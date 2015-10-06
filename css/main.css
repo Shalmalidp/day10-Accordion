@@ -1,0 +1,25 @@
+.accordion {
+  width: 450px; }
+
+ul li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border: 1px solid #00C7D9;
+  overflow: hidden; }
+
+.normal-button {
+  color: white;
+  background-color: #00C7D9;
+  width: 100%;
+  height: 30px;
+  font-size: 1em; }
+
+.collapse-para {
+  height: 0px;
+  margin: 0;
+  overflow: hidden; }
+
+.para {
+  height: 100px;
+  background-color: #FEFEFE; }
