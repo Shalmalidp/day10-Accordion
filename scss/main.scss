@@ -13,21 +13,29 @@ overflow:hidden;
 
 .normal-button{
   color:white;
+  text-align: left;
   background-color: #00C7D9;
   width :100%;
   height: 30px;
   font-size: 1em;
 }
 
+
 .collapse-para{
   //transition: min-height 1s;
 height:0px;
 margin:0;
 overflow:hidden;
+transition: 2s;
+
 }
 
 .para{
 height:100px;
 background-color:#FEFEFE;
+font-size: 15px;
+color:grey;
+margin:0;
+background-color: #ccc;
 }
 
